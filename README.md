@@ -18,4 +18,4 @@ Data scientist @ National Centre for Artificial Intelligence and Robotics
 - Machine learning and Model trainning with different dataset (e.g Life expectancy data ...
 - Phone number tracker using python
 - Qrcode generator using python
-- Simple calculator using javascriptt
+- Simple calculator using javascript
